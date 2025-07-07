@@ -14,7 +14,7 @@ void SceneManager::Initialize()
 	AddScene("BossScene", std::make_shared<BossScene>());
 	AddScene("EndingScene", std::make_shared<EndingScene>());
 
-	activeScene = scenes["SmokeScene"];
+	activeScene = scenes["TitleScene"];
 	activeScene->Load();
 }
 

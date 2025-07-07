@@ -16,7 +16,7 @@ public:
     void Shutdown();
 
     CameraComponent* playerCam = nullptr;
-    bool debug = true;
+    bool debug = false;
     bool pause = false;
     bool mono = false;
     ShaderProgram* GetDebugShaderProgram();

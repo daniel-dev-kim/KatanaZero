@@ -375,7 +375,7 @@ void TitleScene::Update(double dt)
 		{
 			pivot = 1440;
 			pivot2 = 1440;
-			Engine::GetInstance().GetSceneManager()->SetActiveScene("BossScene");
+			Engine::GetInstance().GetSceneManager()->SetActiveScene("FactoryScene");
 		}
 		bg->GetComponent<TransformComponent>()->SetPosition(bgStartPosition + glm::vec2(0, pivot));
 		fence->GetComponent<TransformComponent>()->SetPosition(fenceStartPosition + glm::vec2(0, pivot));
