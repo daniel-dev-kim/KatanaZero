@@ -1,0 +1,3 @@
+2 
+sit_without_katana,Resource\Texture\Object\Boss_dead\sit_without_katana,1,0,15 
+sit_with_katana,Resource\Texture\Object\Boss_dead\sit_with_katana,1,0,15 

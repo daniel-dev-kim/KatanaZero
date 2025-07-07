@@ -1,0 +1,15 @@
+14 
+boss_disappear,Resource\Texture\Object\Boss\obj_boss\boss_disappear,4,0,15  
+boss_explode_head,Resource\Texture\Object\Boss\obj_boss\boss_explode_head,6,0,15        
+boss_float_begin,Resource\Texture\Object\Boss\obj_boss\boss_float_begin,9,0,15        
+boss_float_explode_head,Resource\Texture\Object\Boss\obj_boss\boss_float_explode_head,6,0,15        
+boss_float_loop,Resource\Texture\Object\Boss\obj_boss\boss_float_loop,4,1,15        
+boss_hurt_arm,Resource\Texture\Object\Boss\obj_boss\boss_hurt_arm,8,0,15        
+boss_stand,Resource\Texture\Object\Boss\obj_boss\boss_stand,1,0,15        
+spr_psych_catchpunch,Resource\Texture\Object\Boss\obj_boss\spr_psych_catchpunch,16,0,10 
+spr_psych_prebattle_glasses,Resource\Texture\Object\Boss\obj_boss\spr_psych_prebattle_glasses,14,0,10 
+spr_psych_prebattle_idle,Resource\Texture\Object\Boss\obj_boss\spr_psych_prebattle_idle,14,1,10 
+spr_psych_prebattle_intro_0,Resource\Texture\Object\Boss\obj_boss\spr_psych_prebattle_intro_0,12,0,10 
+spr_psych_prebattle_intro_1,Resource\Texture\Object\Boss\obj_boss\spr_psych_prebattle_intro_1,43,0,10 
+spr_psych_prebattle_point_loop,Resource\Texture\Object\Boss\obj_boss\spr_psych_prebattle_point_loop,12,1,10 
+spr_psych_prebattle_point_to_idle,Resource\Texture\Object\Boss\obj_boss\spr_psych_prebattle_point_to_idle,5,0,10

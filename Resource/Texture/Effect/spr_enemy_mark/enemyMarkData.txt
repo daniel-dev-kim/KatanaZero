@@ -1,0 +1,4 @@
+3
+Enemy_Alert_,Resource/Texture/Effect/spr_enemy_mark/alert,2,0,4
+Enemy_Suspicious_,Resource/Texture/Effect/spr_enemy_mark/suspicious,1,0,4
+Enemy_Chase_,Resource/Texture/Effect/spr_enemy_mark/chase,2,0,4

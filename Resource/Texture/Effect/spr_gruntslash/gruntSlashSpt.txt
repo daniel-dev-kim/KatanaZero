@@ -1,0 +1,2 @@
+1
+Grunt_Slash_,Resource/Texture/Effect/spr_gruntslash,5,0,15

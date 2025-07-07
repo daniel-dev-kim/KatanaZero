@@ -1,0 +1,4 @@
+3 
+eye_die,Resource\Texture\Object\Boss\obj_eye\eye_die,6,0,15 
+eye_open,Resource\Texture\Object\Boss\obj_eye\eye_open,8,0,15 
+eye_stare,Resource\Texture\Object\Boss\obj_eye\eye_stare,5,0,0.8

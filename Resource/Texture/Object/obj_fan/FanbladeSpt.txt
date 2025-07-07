@@ -1,0 +1,2 @@
+1
+Fanblade_,Resource/Texture/Object/obj_fan,32,1,600

@@ -1,0 +1,2 @@
+1
+obj_ill_guy,Resource\Texture\Object\Boss\obj_ill_guy,24,1,15

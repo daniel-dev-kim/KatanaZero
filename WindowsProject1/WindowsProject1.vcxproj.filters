@@ -1,0 +1,678 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="00. Engine">
+      <UniqueIdentifier>{046ac0a8-9b52-40cf-9031-409cd09a67ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Engine Component">
+      <UniqueIdentifier>{33461c5d-7b0e-44e7-ae50-1c0a7e5e9d89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Scene">
+      <UniqueIdentifier>{2a937428-0f10-4b4b-bc19-09879aa49ad9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. Scene Component">
+      <UniqueIdentifier>{e2f05ab8-42f2-4c73-adbe-3fdfb2ca531f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object">
+      <UniqueIdentifier>{147aa8a3-9ea1-4743-a412-6ca454491c41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. Object Component">
+      <UniqueIdentifier>{18acc001-15fb-4595-b38e-e8b3dce91e1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="08. Miscellaneous">
+      <UniqueIdentifier>{f8df7661-6e05-4d95-9571-82bef82b2ade}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="08. Miscellaneous\pch">
+      <UniqueIdentifier>{925a7554-b054-4444-83db-4b7392c7b308}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="09. Execution">
+      <UniqueIdentifier>{c1836ab6-4590-4bda-8aa5-eceb159aae49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\Player">
+      <UniqueIdentifier>{190fcdcd-e5fa-4010-aeb6-7300c3ad9534}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. Object Component\Collision">
+      <UniqueIdentifier>{a668d586-3f0f-4b73-95d8-602cc741837a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. Object Component\Transform">
+      <UniqueIdentifier>{8671c2c6-105a-4f9a-b691-e41cff23f3ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Engine Component\Scene Manager">
+      <UniqueIdentifier>{e49f045f-0dcc-4656-b608-48fcb661b26b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Engine Component\Input System">
+      <UniqueIdentifier>{52dfe595-79a8-4a87-8316-dacaafa0099a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Scene\Scene">
+      <UniqueIdentifier>{6261aa58-38a4-4c36-abd1-41bca024568b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. Scene Component\Object Manager">
+      <UniqueIdentifier>{b10205b3-b766-4699-bda1-f6fa7fb82163}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\Particle">
+      <UniqueIdentifier>{bf1b3fa1-f65a-41e8-b7af-8963558f7a64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\Terrain">
+      <UniqueIdentifier>{4793f328-6314-4081-89f4-ca49090cd539}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. Object Component\Camera">
+      <UniqueIdentifier>{0f0977ac-76a6-4574-b4ea-0dc40dcbd795}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. Object Component\Rendering">
+      <UniqueIdentifier>{4c0fb114-3db7-4a3f-b459-9dbc7437db9b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. Object Component\Rendering\Texture">
+      <UniqueIdentifier>{75781400-4729-4a9d-b1cd-7628162745df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. Object Component\Rendering\Sprite">
+      <UniqueIdentifier>{4e14a200-7d51-4521-9ac0-d736f8afb641}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. Object Component\Collision\AABB">
+      <UniqueIdentifier>{ffcabf31-ac51-4ed7-8c27-91bdb4272985}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. Object Component\Collision\Line">
+      <UniqueIdentifier>{e495de9d-65c1-410e-9e06-f4732c567bc0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\Background">
+      <UniqueIdentifier>{454181f1-a855-4426-bd54-c3108f227c69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\Cursor">
+      <UniqueIdentifier>{02ba1126-2fa4-49ba-9376-85ae38456ef1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\Item">
+      <UniqueIdentifier>{f8c5fc22-8b23-4a84-987d-b8e9ea74db00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\UI">
+      <UniqueIdentifier>{31918ba3-6d28-49a3-80da-0901e2fe8392}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Engine Component\Shader Program">
+      <UniqueIdentifier>{39ed61f7-47dc-489f-a028-691257cab1b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Engine Component\Random">
+      <UniqueIdentifier>{aefd6608-c839-4ea4-907c-72f24f32191c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Scene\Factory Scene">
+      <UniqueIdentifier>{444ef58e-d2b5-4a67-b4fa-d6c1bcbb7b24}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\FanBlade">
+      <UniqueIdentifier>{d1e322d5-6336-4046-8cda-1a6490754bdd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\Enemy">
+      <UniqueIdentifier>{2a396d28-477b-4b06-a0e5-fe82e4a67b1d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\Enemy\Grunt">
+      <UniqueIdentifier>{fa0316b0-7b7d-442d-9c38-f47e6628c53b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\Particle\HitEffect">
+      <UniqueIdentifier>{a30dfd4d-de7a-44d7-84de-3351b1552c66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\Laser">
+      <UniqueIdentifier>{6a2c419b-60ad-4f4f-9310-1e47cdb369dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\Laser\Laser Body">
+      <UniqueIdentifier>{5430d504-2e3e-4c4f-8676-b052af6b111b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\Laser\Laser Beam">
+      <UniqueIdentifier>{ccea18f9-db63-4339-819d-cef917983fbf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\HitBox">
+      <UniqueIdentifier>{07b03679-7900-4fad-b16f-96de2c9dfbd8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\HitBox\Bullet">
+      <UniqueIdentifier>{ab7cae79-9db9-4d59-8b9b-4eb4ae338ac2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\HitBox\Melee">
+      <UniqueIdentifier>{fc3c5db2-2dd9-4c31-bedc-107c1ba02878}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\Particle\BloodEffect">
+      <UniqueIdentifier>{12c216d1-1aff-4dd7-80b4-b547acce448c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\Light">
+      <UniqueIdentifier>{fc917c8b-bc13-43ef-b5bf-6554b517b6ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\Warning">
+      <UniqueIdentifier>{bbdc3f5c-b60a-40f5-8082-7a327319492a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Scene\Smoke Scene">
+      <UniqueIdentifier>{e7bdaa2f-2d74-435b-8a51-e567e49a2336}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\Particle\Transition">
+      <UniqueIdentifier>{3507ccb3-dc6f-4bcb-a908-b2b42b1f825e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Engine Component\Texture Manager">
+      <UniqueIdentifier>{d9b966fb-d969-47e5-982a-c6e5659ce3db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Engine Component\Audio Manager">
+      <UniqueIdentifier>{836ee5bd-3bd5-4877-b444-961fb778668e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\Enemy\Gangster">
+      <UniqueIdentifier>{b3d003c4-b903-4b12-b80c-0d5e308a64ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\YouCanDoThis">
+      <UniqueIdentifier>{72a9c2be-bbaa-414d-ad55-147b2fcda278}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Engine Component\Font Maker">
+      <UniqueIdentifier>{2b8bb996-3b9b-4d59-ad94-7c1fe5d3c55a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\UI\GO">
+      <UniqueIdentifier>{0e8082f0-1bfc-4b88-bbc3-df870666f18c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\UI\To Start">
+      <UniqueIdentifier>{8b66ce64-a7c1-4084-a5d0-bb61acada8e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\UI\Skip Replay">
+      <UniqueIdentifier>{b82ef0e0-a79a-4127-a5aa-2ee4d1162d38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\UI\Song Title">
+      <UniqueIdentifier>{0e7ddb3a-200f-4a8a-9f10-47692fc6e216}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\Door">
+      <UniqueIdentifier>{60d51719-65dd-4e73-bfe7-fa48ed244e05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\Enemy\Shotgun">
+      <UniqueIdentifier>{8960febf-991c-4827-a694-ae42561f59b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\UI\To Leave">
+      <UniqueIdentifier>{1eaafeb0-0b3d-457f-bea5-e66297f7e715}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\Particle\Smoke">
+      <UniqueIdentifier>{d862e29b-249e-49e2-b4c4-3d0a46e4f6d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\Enemy\EnemyMark">
+      <UniqueIdentifier>{63086401-6c97-447c-bb66-587c1509f4b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Scene\Boss Scene">
+      <UniqueIdentifier>{a294f583-0ef7-4ce0-801e-03172bb81bc8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\Boss">
+      <UniqueIdentifier>{d3e1bc8e-69b0-4c10-a465-7a55bd5f66f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\Boss\BossArm">
+      <UniqueIdentifier>{609f2f6f-1816-4cda-9ff2-25f97603c49e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\Boss\BossFire">
+      <UniqueIdentifier>{fbe82150-41a8-45b1-b4de-fdeea9972e65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\Boss\BossAura">
+      <UniqueIdentifier>{119ca12e-f728-42d3-8366-1d16527dd5f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\Boss\BossSpark">
+      <UniqueIdentifier>{43df2f18-89d6-4bdb-bd5a-5704b871d6d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\Boss\Boss">
+      <UniqueIdentifier>{44e68601-2ecd-454f-9d12-021f263bfb85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\Boss\BossThunder">
+      <UniqueIdentifier>{8d7301a6-bbd5-4043-bef0-7ecc43e29f7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\Boss\BossIntro">
+      <UniqueIdentifier>{86edd523-9a0d-49d4-9136-3c7fd975ee59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\Boss\BossDoppleganger">
+      <UniqueIdentifier>{a3fb7610-5897-4fe2-a5bf-2f87395ef79b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\Boss\BossEye">
+      <UniqueIdentifier>{736674e2-b009-4c60-b6e4-0cae94d4573a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\Boss\Mutation">
+      <UniqueIdentifier>{6193d274-4981-4ece-af34-d2f9187f5fdd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\Filter">
+      <UniqueIdentifier>{c87a9064-7742-4b59-a3ad-8b210a9fe03f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\Boss\Head">
+      <UniqueIdentifier>{d9a01305-ad14-48f6-9df0-949931d6f272}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\Boss\Brain">
+      <UniqueIdentifier>{73adc885-ecf1-47ce-b3f7-9afc9206cd96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\Boss\Stab">
+      <UniqueIdentifier>{8e3440cc-6503-4e26-9e26-4ed01e85830c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\Boss\Injection">
+      <UniqueIdentifier>{b2cca729-4a6c-4225-b9de-3b846d1c1c48}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\UI\Pause">
+      <UniqueIdentifier>{6db07999-7461-4194-bd4a-d495fd0de46a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Scene\Title Scene">
+      <UniqueIdentifier>{7e4f0521-3526-4257-9cbb-a8fe3fa8579e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Scene\Ending Scene">
+      <UniqueIdentifier>{656901c5-0058-4bc0-a1fc-a28117ddcdf6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object\BossDead">
+      <UniqueIdentifier>{67cf8cdc-227d-43a6-a3af-3fe85a0f24c8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Engine.h">
+      <Filter>00. Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>08. Miscellaneous\pch</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>01. Engine Component\Scene Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>04. Object</Filter>
+    </ClInclude>
+    <ClInclude Include="TransformComponent.h">
+      <Filter>05. Object Component\Transform</Filter>
+    </ClInclude>
+    <ClInclude Include="InputSystem.h">
+      <Filter>01. Engine Component\Input System</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>02. Scene\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectManager.h">
+      <Filter>03. Scene Component\Object Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectComponent.h">
+      <Filter>05. Object Component</Filter>
+    </ClInclude>
+    <ClInclude Include="Particle.h">
+      <Filter>04. Object\Particle</Filter>
+    </ClInclude>
+    <ClInclude Include="BossScene.h">
+      <Filter>02. Scene\Boss Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Terrain.h">
+      <Filter>04. Object\Terrain</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>04. Object\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="CameraComponent.h">
+      <Filter>05. Object Component\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureManager.h">
+      <Filter>01. Engine Component\Texture Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureComponent.h">
+      <Filter>05. Object Component\Rendering\Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="LineCollisionComponent.h">
+      <Filter>05. Object Component\Collision\Line</Filter>
+    </ClInclude>
+    <ClInclude Include="AABBCollisionComponent.h">
+      <Filter>05. Object Component\Collision\AABB</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteManagerComponent.h">
+      <Filter>05. Object Component\Rendering\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="Background.h">
+      <Filter>04. Object\Background</Filter>
+    </ClInclude>
+    <ClInclude Include="Cursor.h">
+      <Filter>04. Object\Cursor</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>04. Object\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>04. Object\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="stb_image.h">
+      <Filter>01. Engine Component\Texture Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="ShaderProgram.h">
+      <Filter>01. Engine Component\Shader Program</Filter>
+    </ClInclude>
+    <ClInclude Include="Random.h">
+      <Filter>01. Engine Component\Random</Filter>
+    </ClInclude>
+    <ClInclude Include="FactoryScene.h">
+      <Filter>02. Scene\Factory Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Fanblade.h">
+      <Filter>04. Object\FanBlade</Filter>
+    </ClInclude>
+    <ClInclude Include="Grunt.h">
+      <Filter>04. Object\Enemy\Grunt</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>04. Object\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="HitEffect.h">
+      <Filter>04. Object\Particle\HitEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="LaserBody.h">
+      <Filter>04. Object\Laser\Laser Body</Filter>
+    </ClInclude>
+    <ClInclude Include="LaserBeam.h">
+      <Filter>04. Object\Laser\Laser Beam</Filter>
+    </ClInclude>
+    <ClInclude Include="Melee.h">
+      <Filter>04. Object\HitBox\Melee</Filter>
+    </ClInclude>
+    <ClInclude Include="BloodEffect.h">
+      <Filter>04. Object\Particle\BloodEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="Light.h">
+      <Filter>04. Object\Light</Filter>
+    </ClInclude>
+    <ClInclude Include="Warning.h">
+      <Filter>04. Object\Warning</Filter>
+    </ClInclude>
+    <ClInclude Include="SmokeScene.h">
+      <Filter>02. Scene\Smoke Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Transition.h">
+      <Filter>04. Object\Particle\Transition</Filter>
+    </ClInclude>
+    <ClInclude Include="AudioManager.h">
+      <Filter>01. Engine Component\Audio Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="GO.h">
+      <Filter>04. Object\UI\GO</Filter>
+    </ClInclude>
+    <ClInclude Include="Gangster.h">
+      <Filter>04. Object\Enemy\Gangster</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>04. Object\HitBox\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="YouCanDoThis.h">
+      <Filter>04. Object\YouCanDoThis</Filter>
+    </ClInclude>
+    <ClInclude Include="SongTitle.h">
+      <Filter>04. Object\UI\Song Title</Filter>
+    </ClInclude>
+    <ClInclude Include="ToStart.h">
+      <Filter>04. Object\UI\To Start</Filter>
+    </ClInclude>
+    <ClInclude Include="Door.h">
+      <Filter>04. Object\Door</Filter>
+    </ClInclude>
+    <ClInclude Include="Shotgun.h">
+      <Filter>04. Object\Enemy\Shotgun</Filter>
+    </ClInclude>
+    <ClInclude Include="ToLeave.h">
+      <Filter>04. Object\UI\To Leave</Filter>
+    </ClInclude>
+    <ClInclude Include="Smoke.h">
+      <Filter>04. Object\Particle\Smoke</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyMark.h">
+      <Filter>04. Object\Enemy\EnemyMark</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss.h">
+      <Filter>04. Object\Boss\Boss</Filter>
+    </ClInclude>
+    <ClInclude Include="BossAura.h">
+      <Filter>04. Object\Boss\BossAura</Filter>
+    </ClInclude>
+    <ClInclude Include="BossSpark.h">
+      <Filter>04. Object\Boss\BossSpark</Filter>
+    </ClInclude>
+    <ClInclude Include="BossThunder.h">
+      <Filter>04. Object\Boss\BossThunder</Filter>
+    </ClInclude>
+    <ClInclude Include="BossIntro.h">
+      <Filter>04. Object\Boss\BossIntro</Filter>
+    </ClInclude>
+    <ClInclude Include="BossArm.h">
+      <Filter>04. Object\Boss\BossArm</Filter>
+    </ClInclude>
+    <ClInclude Include="BossDoppleganger.h">
+      <Filter>04. Object\Boss\BossDoppleganger</Filter>
+    </ClInclude>
+    <ClInclude Include="BossFire.h">
+      <Filter>04. Object\Boss\BossFire</Filter>
+    </ClInclude>
+    <ClInclude Include="BossEye.h">
+      <Filter>04. Object\Boss\BossEye</Filter>
+    </ClInclude>
+    <ClInclude Include="Mutation.h">
+      <Filter>04. Object\Boss\Mutation</Filter>
+    </ClInclude>
+    <ClInclude Include="Filter.h">
+      <Filter>04. Object\Filter</Filter>
+    </ClInclude>
+    <ClInclude Include="Head.h">
+      <Filter>04. Object\Boss\Head</Filter>
+    </ClInclude>
+    <ClInclude Include="Brain.h">
+      <Filter>04. Object\Boss\Brain</Filter>
+    </ClInclude>
+    <ClInclude Include="Stab.h">
+      <Filter>04. Object\Boss\Stab</Filter>
+    </ClInclude>
+    <ClInclude Include="Injection.h">
+      <Filter>04. Object\Boss\Injection</Filter>
+    </ClInclude>
+    <ClInclude Include="Pause.h">
+      <Filter>04. Object\UI\Pause</Filter>
+    </ClInclude>
+    <ClInclude Include="TitleScene.h">
+      <Filter>02. Scene\Title Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="EndingScene.h">
+      <Filter>02. Scene\Ending Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="BossDead.h">
+      <Filter>04. Object\BossDead</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Engine.cpp">
+      <Filter>00. Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>08. Miscellaneous\pch</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>01. Engine Component\Scene Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>09. Execution</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>04. Object</Filter>
+    </ClCompile>
+    <ClCompile Include="TransformComponent.cpp">
+      <Filter>05. Object Component\Transform</Filter>
+    </ClCompile>
+    <ClCompile Include="InputSystem.cpp">
+      <Filter>01. Engine Component\Input System</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>02. Scene\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectManager.cpp">
+      <Filter>03. Scene Component\Object Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectComponent.cpp">
+      <Filter>05. Object Component</Filter>
+    </ClCompile>
+    <ClCompile Include="Particle.cpp">
+      <Filter>04. Object\Particle</Filter>
+    </ClCompile>
+    <ClCompile Include="BossScene.cpp">
+      <Filter>02. Scene\Boss Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Terrain.cpp">
+      <Filter>04. Object\Terrain</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>04. Object\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="CameraComponent.cpp">
+      <Filter>05. Object Component\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureManager.cpp">
+      <Filter>01. Engine Component\Texture Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureComponent.cpp">
+      <Filter>05. Object Component\Rendering\Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="AABBCollisionComponent.cpp">
+      <Filter>05. Object Component\Collision\AABB</Filter>
+    </ClCompile>
+    <ClCompile Include="LineCollisionComponent.cpp">
+      <Filter>05. Object Component\Collision\Line</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteManagerComponent.cpp">
+      <Filter>05. Object Component\Rendering\Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="Background.cpp">
+      <Filter>04. Object\Background</Filter>
+    </ClCompile>
+    <ClCompile Include="Cursor.cpp">
+      <Filter>04. Object\Cursor</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>04. Object\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>04. Object\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Random.cpp">
+      <Filter>01. Engine Component\Random</Filter>
+    </ClCompile>
+    <ClCompile Include="ShaderManager.cpp">
+      <Filter>01. Engine Component\Shader Program</Filter>
+    </ClCompile>
+    <ClCompile Include="FactoryScene.cpp">
+      <Filter>02. Scene\Factory Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Fanblade.cpp">
+      <Filter>04. Object\FanBlade</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>04. Object\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Grunt.cpp">
+      <Filter>04. Object\Enemy\Grunt</Filter>
+    </ClCompile>
+    <ClCompile Include="HitEffect.cpp">
+      <Filter>04. Object\Particle\HitEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="LaserBody.cpp">
+      <Filter>04. Object\Laser\Laser Body</Filter>
+    </ClCompile>
+    <ClCompile Include="LaserBeam.cpp">
+      <Filter>04. Object\Laser\Laser Beam</Filter>
+    </ClCompile>
+    <ClCompile Include="Melee.cpp">
+      <Filter>04. Object\HitBox\Melee</Filter>
+    </ClCompile>
+    <ClCompile Include="BloodEffect.cpp">
+      <Filter>04. Object\Particle\BloodEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="Light.cpp">
+      <Filter>04. Object\Light</Filter>
+    </ClCompile>
+    <ClCompile Include="Warning.cpp">
+      <Filter>04. Object\Warning</Filter>
+    </ClCompile>
+    <ClCompile Include="Transition.cpp">
+      <Filter>04. Object\Particle\Transition</Filter>
+    </ClCompile>
+    <ClCompile Include="SmokeScene.cpp">
+      <Filter>02. Scene\Smoke Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="AudioManager.cpp">
+      <Filter>01. Engine Component\Audio Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Gangster.cpp">
+      <Filter>04. Object\Enemy\Gangster</Filter>
+    </ClCompile>
+    <ClCompile Include="GO.cpp">
+      <Filter>04. Object\UI\GO</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>04. Object\HitBox\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="YouCanDoThis.cpp">
+      <Filter>04. Object\YouCanDoThis</Filter>
+    </ClCompile>
+    <ClCompile Include="SongTitle.cpp">
+      <Filter>04. Object\UI\Song Title</Filter>
+    </ClCompile>
+    <ClCompile Include="ToStart.cpp">
+      <Filter>04. Object\UI\To Start</Filter>
+    </ClCompile>
+    <ClCompile Include="Door.cpp">
+      <Filter>04. Object\Door</Filter>
+    </ClCompile>
+    <ClCompile Include="Shotgun.cpp">
+      <Filter>04. Object\Enemy\Shotgun</Filter>
+    </ClCompile>
+    <ClCompile Include="ToLeave.cpp">
+      <Filter>04. Object\UI\To Leave</Filter>
+    </ClCompile>
+    <ClCompile Include="Smoke.cpp">
+      <Filter>04. Object\Particle\Smoke</Filter>
+    </ClCompile>
+    <ClCompile Include="..\imgui-master\imgui.cpp" />
+    <ClCompile Include="..\imgui-master\backends\imgui_impl_opengl3.cpp" />
+    <ClCompile Include="..\imgui-master\backends\imgui_impl_win32.cpp" />
+    <ClCompile Include="..\imgui-master\imgui_draw.cpp" />
+    <ClCompile Include="..\imgui-master\imgui_tables.cpp" />
+    <ClCompile Include="..\imgui-master\imgui_widgets.cpp" />
+    <ClCompile Include="EnemyMark.cpp">
+      <Filter>04. Object\Enemy\EnemyMark</Filter>
+    </ClCompile>
+    <ClCompile Include="BossThunder.cpp">
+      <Filter>04. Object\Boss\BossThunder</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss.cpp">
+      <Filter>04. Object\Boss\Boss</Filter>
+    </ClCompile>
+    <ClCompile Include="BossArm.cpp">
+      <Filter>04. Object\Boss\BossArm</Filter>
+    </ClCompile>
+    <ClCompile Include="BossAura.cpp">
+      <Filter>04. Object\Boss\BossAura</Filter>
+    </ClCompile>
+    <ClCompile Include="BossIntro.cpp">
+      <Filter>04. Object\Boss\BossIntro</Filter>
+    </ClCompile>
+    <ClCompile Include="BossSpark.cpp">
+      <Filter>04. Object\Boss\BossSpark</Filter>
+    </ClCompile>
+    <ClCompile Include="BossDoppleganger.cpp">
+      <Filter>04. Object\Boss\BossDoppleganger</Filter>
+    </ClCompile>
+    <ClCompile Include="BossFire.cpp">
+      <Filter>04. Object\Boss\BossFire</Filter>
+    </ClCompile>
+    <ClCompile Include="BossEye.cpp">
+      <Filter>04. Object\Boss\BossEye</Filter>
+    </ClCompile>
+    <ClCompile Include="Mutation.cpp">
+      <Filter>04. Object\Boss\Mutation</Filter>
+    </ClCompile>
+    <ClCompile Include="Filter.cpp">
+      <Filter>04. Object\Filter</Filter>
+    </ClCompile>
+    <ClCompile Include="Brain.cpp">
+      <Filter>04. Object\Boss\Brain</Filter>
+    </ClCompile>
+    <ClCompile Include="Head.cpp">
+      <Filter>04. Object\Boss\Head</Filter>
+    </ClCompile>
+    <ClCompile Include="Stab.cpp">
+      <Filter>04. Object\Boss\Stab</Filter>
+    </ClCompile>
+    <ClCompile Include="Injection.cpp">
+      <Filter>04. Object\Boss\Injection</Filter>
+    </ClCompile>
+    <ClCompile Include="Pause.cpp">
+      <Filter>04. Object\UI\Pause</Filter>
+    </ClCompile>
+    <ClCompile Include="TitleScene.cpp">
+      <Filter>02. Scene\Title Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="EndingScene.cpp">
+      <Filter>02. Scene\Ending Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="BossDead.cpp">
+      <Filter>04. Object\BossDead</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

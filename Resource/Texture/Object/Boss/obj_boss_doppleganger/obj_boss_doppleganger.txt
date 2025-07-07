@@ -1,0 +1,9 @@
+8 
+boss_appear,Resource\Texture\Object\Boss\obj_boss_doppleganger\boss_appear,4,0,15   
+boss_charge,Resource\Texture\Object\Boss\obj_boss_doppleganger\boss_charge,5,0,15   
+boss_die,Resource\Texture\Object\Boss\obj_boss_doppleganger\boss_die,14,0,15   
+boss_disappear,Resource\Texture\Object\Boss\obj_boss_doppleganger\boss_disappear,4,0,15   
+boss_doppleganger_die,Resource\Texture\Object\Boss\obj_boss_doppleganger\boss_doppleganger_die,6,0,15   
+boss_fire,Resource\Texture\Object\Boss\obj_boss_doppleganger\boss_fire,3,0,15   
+boss_float_loop,Resource\Texture\Object\Boss\obj_boss_doppleganger\boss_float_loop,4,0,15   
+boss_glasses,Resource\Texture\Object\Boss\obj_boss_doppleganger\boss_glasses,1,0,15   

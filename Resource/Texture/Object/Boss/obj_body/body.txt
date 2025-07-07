@@ -1,0 +1,2 @@
+1
+obj_body,Resource\Texture\Object\Boss\obj_body,24,1,15 

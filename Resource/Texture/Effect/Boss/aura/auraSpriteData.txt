@@ -1,0 +1,2 @@
+1
+aura,Resource\Texture\Effect\Boss\aura,4,1,15

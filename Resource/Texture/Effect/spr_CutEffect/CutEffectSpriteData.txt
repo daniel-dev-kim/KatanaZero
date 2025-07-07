@@ -1,0 +1,2 @@
+1
+Cut_Effect_,Resource/Texture/Effect/spr_CutEffect,5,0,50

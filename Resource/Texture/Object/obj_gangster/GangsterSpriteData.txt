@@ -1,0 +1,12 @@
+11
+Gangster_Aim_,Resource/Texture/Object/obj_gangster/spr_gangsteraim,7,1,15
+Gangster_Enter_Stair_,Resource/Texture/Object/obj_gangster/spr_gangsterenterstair,6,0,15
+Gangster_Fall_,Resource/Texture/Object/obj_gangster/spr_gangsterfall,12,0,15
+Gangster_Hurt_Fly_,Resource/Texture/Object/obj_gangster/spr_gangsterhurtfly,2,0,15
+Gangster_Hurt_Ground_,Resource/Texture/Object/obj_gangster/spr_gangsterhurtground,14,0,15
+Gangster_Idle_,Resource/Texture/Object/obj_gangster/spr_gangsteridle,8,1,15
+Gangster_Leave_Stair_,Resource/Texture/Object/obj_gangster/spr_gangsterleavestair,6,0,15
+Gangster_Run_,Resource/Texture/Object/obj_gangster/spr_gangsterrun,10,0,15
+Gangster_Turn_,Resource/Texture/Object/obj_gangster/spr_gangsterturn,6,0,15
+Gangster_Walk_,Resource/Texture/Object/obj_gangster/spr_gangsterwalk,8,1,15
+Gangster_Whip_,Resource/Texture/Object/obj_gangster/spr_gangsterwhip,6,0,15

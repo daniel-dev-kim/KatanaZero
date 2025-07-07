@@ -1,0 +1,7 @@
+6 
+arm_hurt,Resource\Texture\Object\Boss\obj_hand\arm_hurt,1,0,15 
+arm_intro,Resource\Texture\Object\Boss\obj_hand\arm_intro,12,0,15 
+arm_intro_begin,Resource\Texture\Object\Boss\obj_hand\arm_intro_begin,1,0,15 
+arm_normal,Resource\Texture\Object\Boss\obj_hand\arm_normal,1,0,15 
+arm_player_die,Resource\Texture\Object\Boss\obj_hand\arm_player_die,11,0,15
+arm_player_struggle,Resource\Texture\Object\Boss\obj_hand\arm_player_struggle,12,1,10

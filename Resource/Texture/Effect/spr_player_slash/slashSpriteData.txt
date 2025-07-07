@@ -1,0 +1,2 @@
+1
+Player_Slash_,Resource/Texture/Effect/spr_player_slash,5,0,15

@@ -1,0 +1,12 @@
+11
+Grunt_Attack_,Resource/Texture/Object/obj_grunt/spr_grunt_attack,8,0,15
+Grunt_Enter_Stair_,Resource/Texture/Object/obj_grunt/spr_grunt_enterstair,8,0,15
+Grunt_Fall_,Resource/Texture/Object/obj_grunt/spr_grunt_fall,13,0,15
+Grunt_Hurt_Fly_,Resource/Texture/Object/obj_grunt/spr_grunt_hurtfly,2,0,15
+Grunt_Hurt_Ground_,Resource/Texture/Object/obj_grunt/spr_grunt_hurtground,16,0,15
+Grunt_Idle_,Resource/Texture/Object/obj_grunt/spr_grunt_idle,8,1,15
+Grunt_Lean_,Resource/Texture/Object/obj_grunt/spr_grunt_lean,1,1,15
+Grunt_Leave_Stair_,Resource/Texture/Object/obj_grunt/spr_grunt_leavestair,8,0,15
+Grunt_Run_,Resource/Texture/Object/obj_grunt/spr_grunt_run,10,0,15
+Grunt_Turn_,Resource/Texture/Object/obj_grunt/spr_grunt_turn,8,0,15
+Grunt_Walk_,Resource/Texture/Object/obj_grunt/spr_grunt_walk,10,0,15

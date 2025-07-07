@@ -1,0 +1,3 @@
+2
+Laser_Collide_,Resource/Texture/Object/obj_laser/Collision,5,0,10
+Laser_No_Collide_,Resource/Texture/Object/obj_laser/NoCollision,4,1,30

@@ -1,0 +1,4 @@
+3
+Gunspark_,Resource/Texture/Effect/gunFire/spr_gunspark,8,0,15
+Gunspark2_,Resource/Texture/Effect/gunFire/spr_gunspark2,8,0,15
+Gunspark3_,Resource/Texture/Effect/gunFire/spr_gunspark3,8,0,15

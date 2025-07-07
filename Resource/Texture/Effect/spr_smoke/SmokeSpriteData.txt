@@ -1,0 +1,4 @@
+3
+Smoke_Appear_,Resource/Texture/Effect/spr_smoke/spr_smoke_appear,3,0,15
+Smoke_Loop_,Resource/Texture/Effect/spr_smoke/spr_smoke_loop,6,1,15
+Smoke_Dissolve_,Resource/Texture/Effect/spr_smoke/spr_smoke_dissolve,7,0,15

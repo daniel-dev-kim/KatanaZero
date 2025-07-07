@@ -1,0 +1,4 @@
+3 
+head_attack,Resource\Texture\Object\Boss\obj_head\head_attack,9,0,15 
+head_hurt,Resource\Texture\Object\Boss\obj_head\head_hurt,6,0,15 
+head_idle,Resource\Texture\Object\Boss\obj_head\head_idle,7,0,15 

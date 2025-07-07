@@ -1,0 +1,2 @@
+1
+spark,Resource\Texture\Effect\Boss\spark,12,1,15

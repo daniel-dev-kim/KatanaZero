@@ -1,0 +1,2 @@
+1
+UI_Pickup_,Resource/Texture/UI/ui_pickup,8,1,50

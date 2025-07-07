@@ -1,0 +1,2 @@
+1
+Jet_Effect_,Resource/Texture/Effect/spr_JetEffect,6,0,50

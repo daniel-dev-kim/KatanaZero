@@ -1,0 +1,2 @@
+1
+Bullet_Reflect_,Resource/Texture/Effect/spr_bulletReflect,5,0,15

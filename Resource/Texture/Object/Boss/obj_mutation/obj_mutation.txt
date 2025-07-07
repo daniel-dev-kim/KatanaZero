@@ -1,0 +1,6 @@
+5 
+mutation_hurt,Resource\Texture\Object\Boss\obj_mutation\mutation_hurt,9,1,15 
+mutation_idle,Resource\Texture\Object\Boss\obj_mutation\mutation_idle,6,1,15 
+mutation_mutate,Resource\Texture\Object\Boss\obj_mutation\mutation_mutate,33,0,9 
+mutation_mutate_end,Resource\Texture\Object\Boss\obj_mutation\mutation_mutate_end,4,1,10 
+mutation_mutate_hold,Resource\Texture\Object\Boss\obj_mutation\mutation_mutate_hold,2,1,10

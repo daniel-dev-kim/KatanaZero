@@ -1,0 +1,4 @@
+3 
+tentacle_idle,Resource\Texture\Object\Boss\obj_tentacle\tentacle_idle,12,1,10 
+tentacle_stab,Resource\Texture\Object\Boss\obj_tentacle\tentacle_stab,5,0,10 
+tentacle_stab_end,Resource\Texture\Object\Boss\obj_tentacle\tentacle_stab_end,4,0,10

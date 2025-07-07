@@ -1,0 +1,4 @@
+3 
+brain_attack,Resource\Texture\Object\Boss\obj_brain\brain_attack,9,0,15 
+brain_die,Resource\Texture\Object\Boss\obj_brain\brain_die,5,0,15 
+brain_idle,Resource\Texture\Object\Boss\obj_brain\brain_idle,6,1,15 

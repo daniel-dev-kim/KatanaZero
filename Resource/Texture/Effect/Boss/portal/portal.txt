@@ -1,0 +1,5 @@
+4 
+portal_back,Resource\Texture\Effect\Boss\portal\portal_back,6,1,15  
+portal_close,Resource\Texture\Effect\Boss\portal\portal_close,8,0,15 
+portal_front,Resource\Texture\Effect\Boss\portal\portal_front,6,1,15  
+portal_open,Resource\Texture\Effect\Boss\portal\portal_open,6,0,15 

@@ -1,0 +1,2 @@
+1 
+plant,Resource\Texture\Background\Title\plant,12,1,12

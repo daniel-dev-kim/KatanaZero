@@ -1,0 +1,3 @@
+2 
+fire0,Resource\Texture\Effect\Fire\fire0,6,0,15 
+fire1,Resource\Texture\Effect\Fire\fire1,6,0,15 

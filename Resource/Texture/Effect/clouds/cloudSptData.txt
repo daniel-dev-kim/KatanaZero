@@ -1,0 +1,4 @@
+3
+Dust_Cloud_,Resource/Texture/Effect/clouds/spr_dustcloud,7,0,15
+Jump_Cloud_,Resource/Texture/Effect/clouds/spr_jumpcloud,4,0,15
+Land_Cloud_,Resource/Texture/Effect/clouds/spr_landcloud,7,0,15

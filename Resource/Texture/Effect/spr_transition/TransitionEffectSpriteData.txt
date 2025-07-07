@@ -1,0 +1,3 @@
+2
+Fade_Out_,Resource/Texture/Effect/spr_transition/FadeOut,28,0,120
+Fade_In_,Resource/Texture/Effect/spr_transition/FadeIn,28,0,120

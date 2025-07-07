@@ -1,0 +1,3 @@
+2
+Door_Close_,Resource/Texture/Object/obj_door/close,1,0,15
+Door_Open_,Resource/Texture/Object/obj_door/open,20,0,30

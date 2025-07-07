@@ -1,0 +1,3 @@
+2 
+fire_die,Resource\Texture\Effect\Boss\Fire\fire_die,6,0,15 
+fire_loop,Resource\Texture\Effect\Boss\Fire\fire_loop,4,1,15 
